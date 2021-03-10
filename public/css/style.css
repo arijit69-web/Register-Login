@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@500&display=swap');
+
+h1{
+    color:white;
+    font-size: 35px;
+
+}
+*
+{background:url("../bg.jpg");
+    color: white;
+    font-family: 'Baloo Bhai 2', cursive;
+text-align: center !important;
+font-size: 20px;
+
+
+}
+input[type="button"], input[type="submit"] { 
+    color:white; 
+    border-radius: 10px;
+    background-color: black;
+    outline:none;
+    border:2px solid white;
+    width: 20%;
+    height: 35px;
+    cursor: pointer;
+
+} 
+
+input[type="text"],input[type="password"] { 
+    color:white; 
+    border-radius: 10px;
+    background-color:white;
+    outline:none;
+width: 30%;
+height: 30px;
+font-size: 15px;
+border:2px solid white;
+
+
+} 
+
