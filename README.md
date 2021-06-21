@@ -1,11 +1,12 @@
-# Register-Login
+# Register Login System
 
-Happy to share that I have just created a Secure Registration and Login page.
-
-When a new user will register, the details of the user will be stored in the database.
-
-User's password will be hashed first and then the hashed value of password will be stored in the database and since hashing algorithm is one way algorithm so the password cannot be decrypted easily.
-
+# Aim:
+The aim of the project is to create a Registration Login System.When a new user will register, the details of the user will be stored in the database.User's password will be hashed first and then the hashed value of password will be stored in the database and since hashing algorithm is one way algorithm so the password cannot be decrypted easily.
 After logged in successfully user's details will be displayed.
 
-Languages Used- HTML5 ,CSS3 ,Javascript ,NodeJS ,MongoDB ,ExpressJS, BycryptJS, mongoose
+
+# Languages and Frameworks Used: 
+HTML5 ,CSS3 ,Javascript ,NodeJS ,MongoDB ,ExpressJS, BycryptJS, mongoose
+
+# Demo of the Register Login System 
+ https://www.linkedin.com/posts/arijit-sarkar-9911a319a_html5-css3-javascript-activity-6775443585249742848-EuUm
